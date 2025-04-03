@@ -13,7 +13,7 @@ Tool to show GDrive structure as a tree (like the unix command) in Google Spread
 6. Google may give an extra warning that this is unsafe. That is because I haven't registered this app in AppScript Marketplace. If you don't trust this, you can follow the steps in Option B.
 7. Now a popup will open. Either you can create a tree from the base of your directory (in which case leave it empty). Else find the folderID of the folder whose subtree you wish to see.
 8. Other options are self explanotory
-
+9. This may take time, anywhere from 1-2 mins to say 30mins depending on the size of your drive. Try to test with small folders first and then try larger.
 
 ### OPTION B: Use the code given here and setup AppScript by yourself
 1. Create a new sheet
@@ -30,3 +30,6 @@ I build this with privacy in mind and wanted a tool that does not expose any of 
 3. You can view the code being used in a sheet by clicking on 'Extensions' in the menu and then click 'AppScript'. You can verify the code there in code.gs and form.html with the ones in this repo.
 4. Alternatively, you can create use the code.gs and form.html given here to populate the same in AppScript directly.
 5. You can check with any of the online coding tools to verify that this does not leak any data or verify it yourself.
+
+
+PS: This is experimental, so please bare with us.
