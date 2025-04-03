@@ -1,4 +1,4 @@
-# DriveTree
+## DriveTree
 Tool to show GDrive structure as a tree (like the unix command) in Google Spreadsheet
 
 ![screenshot](drivetree.gif)
@@ -23,7 +23,7 @@ Tool to show GDrive structure as a tree (like the unix command) in Google Spread
 
 
 ### Privacy
-I build this with privacy in mind and wanted a tool that does not expose any of my data.
+We build this with privacy in mind and wanted a tool that does not expose any of our data. Hope this helps.
 
 1. We collect no data from you, everything is stored in your sheet. There is no usage tracker, nothing. Doesn't even use any extra packages either.
 2. You can view the code here in code.gs and form.html to verify the same.
